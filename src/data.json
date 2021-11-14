@@ -1,0 +1,27 @@
+[
+   {
+      "question": "What is the name of the artist who painted ‘Mona Lisa’?",
+      "choices": ["Leonardo De caprio", "Vincent Van Gogh", "Pablo Picasso"],
+      "answer": "Leonardo Da Vinci"
+   },
+   {
+      "question": "What temperature does water boil at?",
+      "choices": ["90 C", "80 C", "70 C"],
+      "answer": "100 C"
+   },
+   {
+      "question": "What is the capital of Brazil?",
+      "choices": ["Cairo", "Tokyo", "Moscow"],
+      "answer": "Brasilia"
+   },
+   {
+      "question": "How many bones are there in the human body?",
+      "choices": ["200 ", "300", "306"],
+      "answer": "206"
+   },
+   {
+      "question": "Bill Gates is the founder of?",
+      "choices": ["Google", "Facbook", "Twitter"],
+      "answer": "Microsoft"
+   }
+]
